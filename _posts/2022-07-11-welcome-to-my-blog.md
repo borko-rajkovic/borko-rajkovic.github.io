@@ -14,7 +14,9 @@ Hi there 👋 Welcome to my Tech Blog! Hope you will find interesting articles f
 
 ![Borko Rajkovic](https://pbs.twimg.com/profile_images/1484588464163196934/-F7h8gIt_400x400.jpg)
 
-I'm Borko Rajković, Software Engineer. I love to write code and discover new technologies. Check out [About]({% link _tabs/about.md %}) page for my technical background.
+I'm Borko Rajković, Software Engineer. I love to write code and discover new technologies.
+
+Check out [About]({% link _tabs/about.md %}) page for my technical background.
 
 ## What to expect
 
