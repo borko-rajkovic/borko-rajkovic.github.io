@@ -811,7 +811,7 @@ For example, there is a case of MySQL server that has an encoding scheme called 
 As shown in section “UTF-8 encoding summary”, we can see that with 3 bytes you can store only a range from `U+0000` up to `U+FFFF`, so-called **BMP** (Basic Multilingual Plane).
 
 > In **MySQL**, the encoding scheme “utf8” cannot store Unicode code points outside Basic Multilingual Plane!
-{: .prompt-info }
+{: .prompt-danger }
 
 Therefore, the recommended character encoding is “utf8mb4”, which allows up to 4 bytes in size.
 
