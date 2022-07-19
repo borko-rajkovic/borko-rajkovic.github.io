@@ -15,7 +15,7 @@ In this article, we’ll cover the basics of character encoding and several enco
 
 # Evolution of data transmission
 
-Back in the day, when people wanted to communicate over great distances, they had limited options. They could write messages in a form of mail letters and send them over via post service or event use pigeons to fly and carry them over.
+Back in the day, when people wanted to communicate over great distances, they had limited options. They could write messages in a form of mail letters and send them over via post service or even use pigeons to fly and carry them over.
 
 But still, there was a need for immediate communication in cases of emergency like the warning of bad weather, or military communication.
 
@@ -469,7 +469,7 @@ This restricted range is the same for all Unicode encodings.
 
 # Unicode table
 
-The site https://unicode-table.com/ contains a lot of useful information regarding Unicode characters. We can event check the info page for 🚀 emoji here: https://unicode-table.com/en/1F680/ to verify we get the correct value for our example for UTF-16 encoding.
+The site https://unicode-table.com/ contains a lot of useful information regarding Unicode characters. We can even check the info page for 🚀 emoji here: https://unicode-table.com/en/1F680/ to verify we get the correct value for our example for UTF-16 encoding.
 
 ![Rocket emoji](/assets/img/posts/2022-07-16-character-encoding-demystified/rocket_emoji.png)
 
