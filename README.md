@@ -35,6 +35,20 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+## SEO plugin
+
+### Installation
+
+```sh
+gem install jekyll-seo
+```
+
+### Usage
+
+```sh
+jekyll-seo -k "search term" -p _site/posts/example_post/index.html
+```
+
 ## License
 
 This work is published under [MIT][mit] License.
