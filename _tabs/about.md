@@ -12,11 +12,15 @@ If you see something that needs to be fixed, you are more than welcome to open a
 
 You can find my latest CV [here](https://drive.google.com/file/d/1UwsRd-VyXxdxOvvCg389JUwInxjrtJ-1/view?usp=sharing).
 
-Also, please check out my github profile
+Also, please check out my LinkedIn profile 
+<a href="https://www.linkedin.com/in/borko-rajkovic/" aria-label="linkedin" target="_blank" rel="noopener">
+  <i class="fab fa-linkedin"></i>
+</a> 
+, Github
 <a href="https://github.com/borko-rajkovic" aria-label="github" target="_blank" rel="noopener">
   <i class="fab fa-github"></i>
 </a>
-, twitter
+, Twitter
 <a href="https://twitter.com/borko_88" aria-label="twitter" target="_blank" rel="noopener">
   <i class="fab fa-twitter"></i>
 </a> 

@@ -46,9 +46,9 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/borko_88      # change to your twitter homepage
     - https://github.com/borko-rajkovic       # change to your github homepage
+    - https://www.linkedin.com/in/borko-rajkovic
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
 
