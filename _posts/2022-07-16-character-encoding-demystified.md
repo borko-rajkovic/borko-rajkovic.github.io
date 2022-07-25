@@ -388,7 +388,7 @@ The mechanism it uses is called **surrogate pairs**.
 
 It’s easier to look at an example of how a code point is encoded with the UTF-16 encoding scheme.
 
-Let’s take emoji like 🚀 that has Unicode value `U+1F44D`.
+Let’s take emoji like 🚀 that has Unicode value `U+1F680`.
 
 Its binary form is:
 
