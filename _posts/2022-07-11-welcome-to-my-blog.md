@@ -1,9 +1,10 @@
 ---
+author: borko
 title: Welcome to my blog
 date: 2022-07-11 12:50:00 +0200
 categories: []
 tags: []
-image: "https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg"
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Lovcen_view_Montenegro_june_2021_%287%29.jpg"
 ---
 
 # Welcome

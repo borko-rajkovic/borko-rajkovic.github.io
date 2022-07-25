@@ -1,4 +1,5 @@
 ---
+author: borko
 title: "Character Encoding Demystified: Everything you Need to Know About ASCII, Unicode, UTF-8"
 date: 2022-07-16 11:50:00 +0200
 categories: [encoding]
