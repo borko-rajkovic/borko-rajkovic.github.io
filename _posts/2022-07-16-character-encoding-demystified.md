@@ -1,6 +1,7 @@
 ---
 author: borko
 title: "Character Encoding Demystified: Everything you Need to Know About ASCII, Unicode, UTF-8"
+description: "Character Encoding Demystified is trying to cover everything you need to know about character encoding, including inner mechanisms of ASCII and several character encoding schemes including Unicode (UTF-32, UCS-2, UTF-16 and UTF-8) with examples. You can learn about Endianness, BOM and even find out why there are two separate characters for new line on a different OS. And a lot of other useful information. So, pick what you want to learn and happy reading!"
 date: 2022-07-16 11:50:00 +0200
 categories: [encoding]
 tags: [encoding,ascii,unicode,utf-8,utf-16,string,crlf]
