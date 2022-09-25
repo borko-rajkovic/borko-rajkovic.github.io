@@ -58,3 +58,21 @@ This work is published under [MIT][mit] License.
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## Create draft
+
+```
+bundle exec jekyll compose "Generics in Java" --draft
+```
+
+## Publish draft
+
+```
+bundle exec jekyll publish _drafts/generics-in-java.md
+```
+
+# Run Jekyll
+
+```
+bundle exec jekyll s --drafts
+```
