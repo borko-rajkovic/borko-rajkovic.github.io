@@ -54,7 +54,7 @@ VALUES
 
 We can notice there are multiple rows with `null` value for a `personal_id`.
 
-THe reasoning behind this is as follows:
+The reasoning behind this is as follows:
 
 > With a **UNIQUE** constraint `null` values are interpreted as **unknown**, therefore not breaking the rule of the uniqueness of the column.
 > 
