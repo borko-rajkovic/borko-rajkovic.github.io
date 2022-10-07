@@ -19,10 +19,11 @@ date: 2022-09-25 17:34 +0200
 
 In this series of articles, we'll discuss Generics in Java.
 
-I will keep updated links to all parts here:
+Here are links to all parts:
 
 - [Generics in Java part 1 of 3]({% post_url 2022-09-25-generics-in-java-part-1-of-3 %})
 - [Generics in Java part 2 of 3]({% post_url 2022-10-05-generics-in-java-part-2-of-3 %})
+- [Generics in Java part 3 of 3]({% post_url 2022-10-16-generics-in-java-part-3-of-3 %}) 
 
 Generics in Java had been introduced since Java 5. We'll see how they contribute to code reusability by adding an extra layer of abstraction over reference types.
 

@@ -18,10 +18,11 @@ date: 2022-10-05 23:27 +0200
 
 This article is the second part of the series `Generics in Java`.
 
-I will keep updated links to all parts here:
+Here are links to all parts:
 
 - [Generics in Java part 1 of 3]({% post_url 2022-09-25-generics-in-java-part-1-of-3 %})
 - [Generics in Java part 2 of 3]({% post_url 2022-10-05-generics-in-java-part-2-of-3 %})
+- [Generics in Java part 3 of 3]({% post_url 2022-10-16-generics-in-java-part-3-of-3 %}) 
 
 Now that you know some basic syntax for Generics, as well as the motivation behind it, we can continue our journey to further expand our knowledge of Generics.
 
