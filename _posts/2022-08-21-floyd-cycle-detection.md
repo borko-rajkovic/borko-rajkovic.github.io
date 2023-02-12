@@ -3,8 +3,8 @@ author: borko
 title: "Floyd cycle detection"
 description: "To check for the existence of a cycle in Linked List, you can use Floyd cycle detection (tortoise and hare algorithm). I created a mini-game that shows the use of Floyd cycle detection, you can check it out here: https://tile-walker.web.app/"
 date: 2022-08-21 10:10:00 +0200
-categories: [alghoritms]
-tags: [alghoritms,cycle detection]
+categories: [algorithms]
+tags: [algorithms,cycle detection]
 image: /assets/img/posts/2022-08-21-floyd-cycle-detection/thumbnail.png
 ---
 
